@@ -1,4 +1,7 @@
-<h1>Hello, I am Sanya</h1> 
+<h1>Hello, I am Sanya</h1> <a href="https://www.linkedin.com/in/sanya-q-6ba262236" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a>
+
 I am a recent graduate with a profound interest in <b>cybersecurity</b> and a dedication to solving complex problems.
 
 <h1>Objective</h1>
