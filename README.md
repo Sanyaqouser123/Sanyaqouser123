@@ -42,4 +42,6 @@ Cryptography, Hash Functions, Steganography
 - Vulnerability Assessment with Burp Suite
 - Password Complexity Checker and Network Sniffing Tool
 - Mobile Hacking with AhMyth
+- Phishing Campaign Simulation
+- Wifi Security Auditing
 
