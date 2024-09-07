@@ -6,7 +6,7 @@ I am a recent graduate with a profound interest in <b>cybersecurity</b> and a de
 
 <h1>Objective</h1>
 
-My journey in cybersecurity has deepened my passion for safeguarding data and assets from threats and educating others. As a fresher, I am eager to start my career as a Cybersecurity Analyst, where I can apply my skills to identify and mitigate threats while continuously learning and adapting to the evolving cybersecurity landscape.
+My journey in cybersecurity has deepened my passion for safeguarding data and assets from threats and educating others. I am eager to start my career as a Cybersecurity Analyst, where I can apply my skills to identify and mitigate threats while continuously learning and adapting to the evolving cybersecurity landscape.
 
 # Skills
 * **Cybersecurity Tools:** Kali Linux tools, OWASP Top Ten-2021,Nmap, Wireshark, SIEM tools (Splunk, Chronicle)
